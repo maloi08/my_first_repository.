@@ -1,6 +1,7 @@
 def plus(a, b):
     return a + b
-text = 'new text'
+def pr(a, b):
+    return a * b
 
 print(plus(2, 2))
-print(text)
+print(pr(3, 5))
